@@ -1,0 +1,2 @@
+priint(a*b)
+
